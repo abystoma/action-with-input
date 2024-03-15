@@ -9,4 +9,4 @@ jobs:
       - id: foo
         uses: abystoma/hello-world-composite-action@v6
         with:
-          who-to-greet: 'world'
+          who-to-greet: 'this is a message running in my first action'
