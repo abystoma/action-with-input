@@ -7,6 +7,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: foo
-        uses: abystoma/hello-world-composite-action@v5
+        uses: abystoma/hello-world-composite-action@v6
         with:
           who-to-greet: 'world'
